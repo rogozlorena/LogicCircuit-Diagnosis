@@ -1,6 +1,6 @@
 
 ![alt text](Schema.jpeg) 
-
+![alt text](<7 (1).PNG>)
 # LogicCircuit-Diagnosis
 
 ### Project Overview
